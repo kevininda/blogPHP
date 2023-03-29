@@ -15,7 +15,9 @@
                 <p><a href="#">blog</a></p>
             </div>
             <div class="derecha">
-                <form action=""></form>
+                <form action="">
+                    <a href="http://">Buscar</a>
+                </form>
             </div>
         </div>
     </header>
